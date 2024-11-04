@@ -9,7 +9,7 @@ I have acquired throughout my data science journey. Here, you'll find a collecti
 - Define functions to streamline data operations and processes
 - Develop predictive models and conduct machine learning experiments
 - Test hypotheses and derive actionable insights
-- zEach project in this portfolio represents a real-world problem, with solutions that demonstrate my expertise in Python, data visualization, and machine learning techniques.
+- Each project in this portfolio represents a real-world problem, with solutions that demonstrate my expertise in Python, data visualization, and machine learning techniques.
 
 I am actively seeking new opportunities in data science where I can apply my skills to solve challenging problems. 
 If you're interested in collaborating or want to know more about my work, feel free to explore the repository and connect with me!
