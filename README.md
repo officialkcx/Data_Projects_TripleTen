@@ -31,7 +31,7 @@ Skills & Tools:
 - Version Control: Git, GitHub, VSCode, JupyterNotebook
   
 Connect with Me:
-- LinkedIn: www.linkedin.com/in/brian-rivers-a6702a177
+- LinkedIn: www.linkedin.com/in/brian-rivers-data-scientist
 - Email: Brian.bemr@gmail.com
 
 
